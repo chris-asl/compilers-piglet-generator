@@ -1,5 +1,7 @@
 package me.aslanoglou.dit.compilers.pigletgenerator;
 
+import me.aslanoglou.dit.compilers.pigletgenerator.parser.MiniJavaParser;
+import me.aslanoglou.dit.compilers.pigletgenerator.parser.ParseException;
 import me.aslanoglou.dit.compilers.pigletgenerator.syntaxtree.Goal;
 
 import java.io.*;
